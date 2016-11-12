@@ -1,3 +1,3 @@
 ### Styling Library
 
-![alt text]("images/heroku.png", "Heroku")
+Deployed to [Heroku](https://styling-library.herokuapp.com)
